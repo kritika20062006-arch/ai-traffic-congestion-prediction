@@ -1,0 +1,6 @@
+{
+  "name": "RoadPulse AI — Traffic Forecasting",
+  "description": "Adaptive Traffic Forecasting & Congestion Intelligence using PEMS-BAY sensor data, scikit-learn multi-horizon regression, and persistence baseline benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
